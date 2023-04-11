@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @JjohnRemi
+- 👋 Hi, I’m @IBRAHIM Taiwo Roheemat
 - 👀 I’m interested in sharing tech ideas
 - 🌱 I’m currently learning Python 3.0
 - 💞️ I’m looking to collaborate on ...
